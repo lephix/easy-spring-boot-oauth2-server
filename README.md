@@ -19,3 +19,5 @@ easy.security.oauth2server.source:
   client: jdbc
   user: jdbc
 ```
+
+### DDL for jdbc
