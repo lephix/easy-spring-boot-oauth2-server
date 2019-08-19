@@ -4,6 +4,7 @@
 *.log
 *.tmp
 *.temp
+*.temporary
 
 # Maven related
 target/
