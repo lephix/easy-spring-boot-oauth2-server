@@ -21,3 +21,5 @@ easy.security.oauth2server.source:
 ```
 
 ### DDL for jdbc
+#### DDL for OAuth2 Client Registration
+
