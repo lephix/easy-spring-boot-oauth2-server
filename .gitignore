@@ -2,6 +2,7 @@
 .DS_STORE
 *.bak
 *.log
+*.tmp
 
 # Maven related
 target/
