@@ -3,6 +3,7 @@
 *.bak
 *.log
 *.tmp
+*.temp
 
 # Maven related
 target/
