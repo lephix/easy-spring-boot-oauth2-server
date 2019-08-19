@@ -6,6 +6,7 @@
 *.temp
 *.temporary
 *.hide
+*.rar
 
 # Maven related
 target/
