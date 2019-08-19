@@ -35,6 +35,7 @@ public class MemoryOAuth2AuthorizationServer extends AuthorizationServerConfigur
                 .scopes("read_profile_info")
                 .resourceIds("oauth2-resource")
                 .redirectUris("http://localhost:8080/login/oauth2/code/easy")
+                .autoApprove(true)
                 .accessTokenValiditySeconds(120)
                 .refreshTokenValiditySeconds(240000);
     }
